@@ -1,0 +1,101 @@
+.big-heading{
+    padding: 15rem 0 20rem 0;
+}
+.title{
+    font-size: 10rem;
+    white-space: nowrap;
+    font-family: "cardo",serif;
+}
+
+h3{
+    text-align: center;
+}
+.subheading{
+    text-align: left;
+}
+.Home{
+    background-image: url(/toppng.com-beach-coast-tree-dusk-dark-1600x1200.jpg);
+    color: #fff;
+    background-repeat: no-repeat;
+    background-size: 1920px 940px;
+}
+
+/* navbar */
+
+.navbar{
+    padding:0 0 4.5rem;
+    text-align: left;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+}
+
+.nav-item{
+    padding:0 18px;
+}
+
+.nav-link{
+    font-family: "Montserrat-Light";
+    font-size: 1.2rem;
+}
+.container-fluid{
+    padding: 3% 3% ;
+}
+#HomePage.container-fluid{
+    padding: 3% 15% 7% ;
+    /* text-align: left; */
+}
+#facilites{
+    position: relative;
+    padding: 7% 15%;
+}
+.feature-title{
+    font-size: 2rem;
+    margin-left: 90px;
+    width: 300px;
+    padding:30px 0 0 0;
+    text-align: left;
+}
+.feature-box{
+    padding:5%;
+}
+.photos{
+    width: 300px;
+    height: 250px;
+    text-align: center;   
+    margin-left: 90px;
+}
+.details{
+    white-space: wrap;
+    text-align: left;
+    width: 300px;
+    margin-left: 90px;
+}
+
+/* contact us section */
+#Contact-Us{
+    background-color: #a9a9a9;
+    /* background-repeat: no-repeat; */
+    background-size: 1920px 940px;
+    /* background:fixed; */
+    padding: 7% 15%;
+}
+.address{
+    font-family: "Ubuntu",sans-serif;
+    text-align: right;
+    margin-right: 15%;
+}
+.stay{
+    font-family: "cardo",serif;
+    color: #fff;
+    text-align: right;
+    font-size: 10rem;
+    margin-right: 10%;
+}
+.phone{
+    font-family: "Ubuntu",sans-serif;
+    text-align: right;
+    margin-right: 15%;
+}
